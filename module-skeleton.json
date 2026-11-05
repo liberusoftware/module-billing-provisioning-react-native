@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-provisioning-react-native",
+  "capabilityKey": "liberusoftware/module-billing-provisioning",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-billing-provisioning-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/billing/nextjs/provisioning.md",
+  "presentationPlan": "projects/billing/react-native/provisioning.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
